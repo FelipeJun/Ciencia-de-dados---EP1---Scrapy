@@ -1,0 +1,14 @@
+"bug"	12
+"dragon"	3
+"electric"	9
+"fighting"	7
+"fire"	12
+"ghost"	3
+"grass"	12
+"ground"	8
+"ice"	2
+"normal"	24
+"poison"	14
+"psychic"	8
+"rock"	9
+"water"	28
